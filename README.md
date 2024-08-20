@@ -13,4 +13,4 @@
 #### git fetch → joga do REPOSITÓRIO LOCAL para o STAGE
 #### git stash apply → joga do STASH para o LOCAL
 #### git pull → joga o REPOSITÓRIO REMOTO para o LOCAL
-
+#### git checkout → faz uma cópia e uma nova branch

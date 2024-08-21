@@ -18,5 +18,5 @@
 #### git checkout nome_da_branch → para mudar a branch
 #### git branch → mostra o nome de todas as branchs criadas
 
-
+#### git merge Nova-Branch
 #### No pull request é uma solicitação de atualização...

@@ -13,4 +13,10 @@
 #### git fetch → joga do REPOSITÓRIO LOCAL para o STAGE
 #### git stash apply → joga do STASH para o LOCAL
 #### git pull → joga o REPOSITÓRIO REMOTO para o LOCAL
-#### git checkout → faz uma cópia e uma nova branch
+#### git tag -a v.10 -m "Versão 1.0" → cria uma tag para marcar o próximo commit
+#### git checkout -b nome_da_branch → para criar uma branch
+#### git checkout nome_da_branch → para mudar a branch
+#### git branch → mostra o nome de todas as branchs criadas
+
+
+#### No pull request é uma solicitação de atualização...
